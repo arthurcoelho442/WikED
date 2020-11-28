@@ -1,0 +1,7 @@
+ERRO: não existe a pagina Psicologia
+HA CAMINHO DA PAGINA UFES PARA Fisica
+NAO HA CAMINHO DA PAGINA Fisica PARA UFES
+ERRO: A contribuicao de Ana referente a c5.txt não existe.
+ERRO: A contribuicao de Beto referente a j4.txt não existe.
+ERRO: Esta pagina Julia não existe.
+ERRO: editor nao tem direito de excluir esta contribuicao.

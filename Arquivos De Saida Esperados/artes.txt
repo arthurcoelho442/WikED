@@ -1,0 +1,16 @@
+Artes
+
+--> Historico de contribuicoes
+Maria c4.txt
+Ana c5.txt <<retirada>>
+
+
+--> Links
+Fisica fisica.txt
+
+--> Textos
+
+-------- c4.txt (Maria) --------
+
+Arte (do termo latino ars, significando técnica e/ou habilidade) pode ser entendida como a atividade humana ligada às manifestações de ordem estética ou comunicativa, realizada por meio de uma grande variedade de linguagens,[1] tais como: arquitetura, desenho, escultura, pintura, escrita, música, dança, teatro e cinema, em suas variadas combinações.[2] O processo criativo se dá a partir da percepção com o intuito de expressar emoções e ideias, objetivando um significado único e diferente para cada obra.[3]
+
