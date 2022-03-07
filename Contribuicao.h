@@ -122,3 +122,4 @@ void LiberaHistorico(Historico* H);
 void LiberaContribuicao(Contribuicao* C);
 
 #endif /* CONTRIBUICAO_H */
+//Finalizado

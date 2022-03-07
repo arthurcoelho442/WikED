@@ -167,3 +167,4 @@ void LiberaPagina(Pagina* P);
 void LiberaListaDePaginas(Paginas* WikED);
 
 #endif /* PAGINA_H */
+//Finalizado

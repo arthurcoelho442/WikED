@@ -14,3 +14,5 @@ compile-run:
 valgrind:
 	gcc WikED.c Pagina.c Link.c Contribuicao.c
 	valgrind ./a.out entrada.txt
+
+#Finalizado

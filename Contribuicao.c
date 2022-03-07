@@ -203,3 +203,4 @@ void LiberaHistorico(Historico* H){
     }
     free(H);
 }
+//Finalizado

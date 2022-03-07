@@ -267,3 +267,4 @@ void LiberaListaDePaginas(Paginas* WikED){
     }
     free(WikED);
 }
+//Finalizado
